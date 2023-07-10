@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>GitHub Changelog</title>
+	<atom:link href="https://github.blog/changelog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.blog/changelog/</link>
+	<description>Updates, ideas, and inspiration from GitHub to help developers build and design software.</description>
+	<lastBuildDate>Thu, 06 Jul 2023 17:05:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32</url>
+	<title>GitHub Changelog</title>
+	<link>https://github.blog/changelog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">153214340</site>	<item>
+		<title>Anonymous users have access to new code view and navigation</title>
+		<link>https://github.blog/changelog/2023-07-06-anonymous-users-have-access-to-new-code-view-and-navigation</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Thu, 06 Jul 2023 17:05:36 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-06-anonymous-users-have-access-to-new-code-view-and-navigation</guid>
+
+					<description><![CDATA[Anonymous users have access to new code view and navigation]]></description>
+										<content:encoded><![CDATA[<p>A total redesign of <a href="https://github.com/features/code-search">GitHub’s code search and navigation</a> was released to all logged in GitHub users in May. Starting today, the new redesigned code navigation experience, including a file tree and symbols pane, will be available to anyone browsing anonymously on GitHub.com. To access the new code search experience, and make full use of the symbol navigation, create an account or log in to GitHub.com.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72958</post-id>	</item>
+		<item>
+		<title>Workato is now a GitHub secret scanning partner</title>
+		<link>https://github.blog/changelog/2023-07-05-workato-is-now-a-github-secret-scanning-partner</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 21:51:16 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-05-workato-is-now-a-github-secret-scanning-partner</guid>
+
+					<description><![CDATA[Workato is now a GitHub secret scanning partner]]></description>
+										<content:encoded><![CDATA[<p>GitHub secret scanning protects users by searching repositories for known types of secrets. By identifying and flagging these secrets, our scans help prevent data leaks and fraud.</p>
+<p>We have partnered with <a href="https://www.workato.com/">Workato</a> to scan for their API tokens and help secure our mutual users on public repositories. Workato Developer API tokens allow users to effectively manage their Workato workspaces programmatically and reduce administrative overhead as they onboard teams from across their organisation. GitHub will forward access tokens found in public repositories to Workato, which will then notify the user about the leaked token. You can read more information about Workato&#039;s tokens <a href="https://docs.workato.com/workato-api/api-clients.html#refreshing-api-client-tokens">here</a>.</p>
+<p>All users can scan for and block Workato&#039;s tokens from entering their public repositories for free with <a href="https://docs.github.com/en/code-security/secret-scanning/protecting-pushes-with-secret-scanning">push protection</a>. GitHub Advanced Security customers can also scan for and block Workato tokens in their private repositories.</p>
+<ul>
+<li><a href="https://docs.github.com/en/github/administering-a-repository/about-secret-scanning">Learn more about secret scanning</a></li>
+<li><a href="https://docs.github.com/en/developers/overview/secret-scanning/">Partner with GitHub on secret scanning</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72949</post-id>	</item>
+		<item>
+		<title>New and Updated ISO and CSA STAR Certifications Are Now Available</title>
+		<link>https://github.blog/changelog/2023-07-05-new-and-updated-iso-and-csa-star-certifications-are-now-available</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 20:55:11 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-05-new-and-updated-iso-and-csa-star-certifications-are-now-available</guid>
+
+					<description><![CDATA[New and Updated ISO and CSA STAR Certifications Are Now Available]]></description>
+										<content:encoded><![CDATA[<p>The 2023 updates to our ISO/IEC 27001:2013 certificate can be downloaded now. In addition, we have completed the processes for ISO/IEC 27701:2019 (PII Processor), ISO/IEC 27018:2019, and CSA STAR certifications. Those certificates can also be downloaded now.</p>
+<ul>
+<li>For enterprises, administrators may download this report by navigating to the <code>Compliance</code> tab of the enterprise account: <code>https://github.com/enterprises/"your-enterprise"/settings/compliance</code>.</li>
+<li>For organizations, owners may find these reports under <code>Security</code> &gt; <code>Compliance</code> settings tab of their organization: <code>https://github.com/organizations/"your-org"/settings/compliance</code>.</li>
+</ul>
+<p>For detailed guidance on accessing these reports, read our compliance documentation for <a href="https://docs.github.com/en/enterprise-cloud@latest/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/accessing-compliance-reports-for-your-organization">organizations</a> and <a href="https://docs.github.com/en/enterprise-cloud@latest/admin/overview/accessing-compliance-reports-for-your-enterprise">enterprises</a>.</p>
+<p>Check out <a href="https://github.blog/2023-07-05-github-achieves-iso-iec-277012019-270182019-and-csa-star-certifications/">the GitHub blog</a> for more information.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72947</post-id>	</item>
+		<item>
+		<title>Dependabot alerts can be enabled at the repository, organization, and enterprise levels in GHES 3.9</title>
+		<link>https://github.blog/changelog/2023-07-05-dependabot-alerts-can-be-enabled-at-the-repository-organization-and-enterprise-levels-in-ghes-3-9</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 20:26:27 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-05-dependabot-alerts-can-be-enabled-at-the-repository-organization-and-enterprise-levels-in-ghes-3-9</guid>
+
+					<description><![CDATA[Dependabot alerts can be enabled at the repository, organization, and enterprise levels in GHES 3.9]]></description>
+										<content:encoded><![CDATA[<p>With GHES 3.9, you and your organization can better manage your Dependabot alerts thanks to more granular enablement controls. You can now enable Dependabot alerts at the repository, organization, and enterprise level, rather than having to enable Dependabot alerts across an entire enterprise at once.</p>
+<p>This release also adds support for “automatically enable for new repositories&quot; at the organization and enterprise levels.</p>
+<p>Enterprise admins still need to opt in to Dependabot alerts via GitHub Connect, which approves outbound calls for advisories to sync.</p>
+<p>Learn more about <a href="https://docs.github.com/enterprise-server@3.9/admin/release-notes#dependabot">changes for GHES 3.9 for Dependabot</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72941</post-id>	</item>
+		<item>
+		<title>Code scanning with CodeQL supports Swift 5.8</title>
+		<link>https://github.blog/changelog/2023-07-05-code-scanning-with-codeql-supports-swift-5-8</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Wed, 05 Jul 2023 16:15:59 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-05-code-scanning-with-codeql-supports-swift-5-8</guid>
+
+					<description><![CDATA[Code scanning with CodeQL supports Swift 5.8]]></description>
+										<content:encoded><![CDATA[<p>After we released <a href="https://github.blog/changelog/2023-06-01-codeql-code-scanning-now-supports-swift-beta/">Swift in beta</a> on the 1st June, we are now adding support for long awaited Swift <code>5.8.1</code> and Xcode <code>14.3.1</code>. This release also brings better support for Swift <code>5.x</code> on Linux, which now supports versions up to and including <code>5.8.1</code>.</p>
+<p>Swift <code>5.8.1</code> support is available starting with CodeQL version <code>2.13.5</code>. Code scanning users on GitHub.com will automatically benefit from the latest CodeQL version, while those on GitHub Enterprise Server can update using <a href="https://docs.github.com/en/enterprise-server@3.7/admin/code-security/managing-github-advanced-security-for-your-enterprise/configuring-code-scanning-for-your-appliance#configuring-github-connect-to-sync-github-actions">these guidelines</a>. Security researchers can set up the CodeQL CLI and VS Code extension by following <a href="https://codeql.github.com/docs/codeql-for-visual-studio-code/setting-up-codeql-in-visual-studio-code/#configuring-access-to-the-codeql-cli">these instructions</a>.</p>
+<p>While our Swift analysis support remains in public beta we welcome your input. If you have any feedback or questions about the Swift beta, consider joining our community in the <code>#codeql-swift-beta</code> channel in the <a href="https://gh.io/securitylabslack">GitHub Security Lab Slack</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72927</post-id>	</item>
+		<item>
+		<title>New rate limit is coming for the audit log API endpoints</title>
+		<link>https://github.blog/changelog/2023-07-03-new-rate-limit-is-coming-for-the-audit-log-api-endpoints</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2023 19:36:25 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-07-03-new-rate-limit-is-coming-for-the-audit-log-api-endpoints</guid>
+
+					<description><![CDATA[New rate limit is coming for the audit log API endpoints"]]></description>
+										<content:encoded><![CDATA[<p>GitHub provides Enterprise customers with the ability to programmatically retrieve enterprise and organization audit log events in near real-time using the <a href="https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/using-the-audit-log-api-for-your-enterprise">audit log API</a>. A high-quality audit log is an essential tool used by enterprises to ensure compliance, maintain security, investigate issues, and promote accountability. To support these objectives, the audit log API needs to be highly reliable, consistently available, and extremely scalable.</p>
+<p>Recognizing the audit log API&#039;s importance as a data source to enterprises, each audit log API endpoint will impose a rate limit of 15 queries per minute per enterprise or org starting August 1st, 2023. Based on a thorough analysis of event generation data, we are confident that the new rate limit will continue to support customers in accessing near real-time data via the audit log API. Additionally, query cost is a crucial consideration, and in the future, the audit log may impose further rate limiting for high-cost queries that place significant strain on our data stores.</p>
+<p>What can you do to prepare for these changes? First, programs or integrations querying the audit log API should be adjusted to query at a maximum frequency of 15 queries per minute. Additionally, applications querying the audit log API should be updated to be capable of honoring HTTP 429 responses, enabling them to dynamically adjust to the back-pressure exerted by our systems. Alternatively, Enterprises seeking access to near real-time data should consider <a href="https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/streaming-the-audit-log-for-your-enterprise">streaming your enterprise audit log.</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72913</post-id>	</item>
+		<item>
+		<title>GitHub Actions &#8211; Actions Runner General availability</title>
+		<link>https://github.blog/changelog/2023-06-30-github-actions-actions-runner-general-availability</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 14:23:41 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-06-30-github-actions-actions-runner-general-availability</guid>
+
+					<description><![CDATA[GitHub Actions - Actions Runner General availability ]]></description>
+										<content:encoded><![CDATA[<p>Auto-scaling self-hosted runners using the Actions runner controller and <a href="https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.4.0">runner scale sets</a> is now in generally avaliable.</p>
+<p><a href="https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/quickstart-for-actions-runner-controller">Learn more about scalling self hosted runners</a> and share your feedback with us in the <a href="https://github.com/orgs/community/discussions/59735">Community Discussion</a>!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72837</post-id>	</item>
+		<item>
+		<title>Grouped version updates for Dependabot public beta</title>
+		<link>https://github.blog/changelog/2023-06-30-grouped-version-updates-for-dependabot-public-beta</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Fri, 30 Jun 2023 12:02:32 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-06-30-grouped-version-updates-for-dependabot-public-beta</guid>
+
+					<description><![CDATA[Grouped version updates for Dependabot public beta]]></description>
+										<content:encoded><![CDATA[<p>Dependabot version updates helps you keep your dependencies up-to-date by opening pull requests when dependencies can be upgraded. With today&#039;s release, you can now group version updates by dependency name.</p>
+<p>Until today, Dependabot would always open individual pull requests for every dependency update in accordance with your configuration in <code>dependabot.yml</code>. Not only can this result in a large number of Dependabot pull requests, but there are some dependencies which must be updated in tandem with each other or the update will fail. In these cases, the individual Dependabot pull requests would always fail until you manually intervened to do the update.</p>
+<p>Now, in your <code>dependabot.yml</code> configuration file, you can set custom grouping rules for Dependabot based on pattern matching on package name. Here is an example of how these rules can be set up:</p>
+<pre><code>version: 2
+  updates:
+  - package-ecosystem: &quot;bundler&quot;
+    directory: &quot;/&quot;
+    schedule:
+      interval: weekly
+    # New!
+    groups:
+      # This is the name of your group, it will be used in PR titles and branch names
+      dev-dependencies:
+        # A pattern can be...
+        patterns:
+          - &quot;rubocop&quot; # a single dependency name
+          - &quot;aws*&quot;  # or a wildcard string that matches multiple dependencies
+          # If you&#039;d simply like to group as many dependencies together as possible, 
+          # you can use the wildcard * - but keep in mind this may open a very large PR!
+        # Additionally, you can specify any dependencies to be excluded from the group
+        exclude-patterns:
+          - &quot;aws-sdk&quot;</code></pre>
+<p>This configuration applies to regularly scheduled Dependabot version updates only. Security updates for Dependabot will continue to open as individual pull requests, even if they match a configured grouping rule.</p>
+<p>This feature is in beta, so you may encounter instability and the feature-set is currently limited. You may file any bugs encountered in the <a href="https://github.com/dependabot/dependabot-core/issues/new?assignees=&amp;labels=T%3A+bug+%F0%9F%90%9E,grouped-updates-beta&amp;template=bug-report.yml">dependabot-core repo</a>.</p>
+<p>To learn more about grouping rules for Dependabot version updates, <a href="https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file">please refer to our documentation</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72806</post-id>	</item>
+		<item>
+		<title>TOTP codes for 2FA are now single-use</title>
+		<link>https://github.blog/changelog/2023-06-29-totp-codes-for-2fa-are-now-single-use</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2023 21:56:12 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-06-29-totp-codes-for-2fa-are-now-single-use</guid>
+
+					<description><![CDATA[TOTP codes for 2FA are now single-use]]></description>
+										<content:encoded><![CDATA[<p>During two-factor authentication and when entering <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/sudo-mode"><code>sudo</code> mode for sensitive actions</a> on GitHub.com, TOTP codes could be successfully used multiple times within their validity window. To improve security, this reuse is no longer allowed on GitHub.com, and will be updated in GHES with version 3.10.</p>
+<p>Systems that have attempted to script the login flow, across multiple parallel jobs, may break as a result of this change.</p>
+<p><a href="https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication#configuring-two-factor-authentication-using-a-totp-mobile-app">Learn more</a> about two-factor authentication with TOTP.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72803</post-id>	</item>
+		<item>
+		<title>Security risk and coverage pages are now generally available and replace the enterprise-level overview page</title>
+		<link>https://github.blog/changelog/2023-06-29-security-risk-and-coverage-pages-are-now-generally-available-and-replace-the-enterprise-level-overview-page</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2023 21:22:02 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-06-29-security-risk-and-coverage-pages-are-now-generally-available-and-replace-the-enterprise-level-overview-page</guid>
+
+					<description><![CDATA[Security risk and coverage pages are now generally available and replace the enterprise-level overview page]]></description>
+										<content:encoded><![CDATA[<p>Today we are announcing the general availability of our organization and enterprise-level security risk and coverage pages.</p>
+<p>Additionally, the alert-centric pages for Dependabot, code scanning, and secret scanning are also now generally available at both the organization and enterprise levels.</p>
+<p>The enterprise-level security overview page has been replaced by the risk and coverage pages as <a href="https://github.blog/changelog/2023-06-15-risk-and-coverage-views-on-the-code-security-tab-for-enterprises-public-beta/">previously announced</a>. The risk page is designed to help you assess security exposure, and the coverage view is intended to help you manage security feature enablement.</p>
+<p>To access the new enterprise-level risk and coverage pages, follow these steps:</p>
+<ol>
+<li>Navigate to your profile photo in the top-right corner of GitHub.com.</li>
+<li>Click <strong>Your enterprises</strong>.</li>
+<li>From the list of enterprises, select the enterprise you wish to view.</li>
+<li>In the enterprise account sidebar, click on <strong>Code Security</strong>.</li>
+</ol>
+<p>These improvements have shipped to GitHub.com and will be available in GitHub Enterprise Server 3.10.</p>
+<p><a href="https://docs.github.com/en/enterprise-cloud@latest/code-security/security-overview/about-the-security-overview">Learn more about the new risk and coverage pages</a> and <a href="https://github.com/github-community/community/discussions/categories/code-security">send us your feedback</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">72802</post-id>	</item>
+	</channel>
+</rss>
